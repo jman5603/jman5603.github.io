@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b11f4cdc.css",
-    "main.js": "/static/js/main.13474908.js",
+    "main.js": "/static/js/main.27bead9d.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/logo.png": "/static/media/logo.68c074300d9793bb4383.png",
     "static/media/logo-j-light.png": "/static/media/logo-j-light.0d2bb143a8cf2273dcb1.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.b11f4cdc.css.map": "/static/css/main.b11f4cdc.css.map",
-    "main.13474908.js.map": "/static/js/main.13474908.js.map",
+    "main.27bead9d.js.map": "/static/js/main.27bead9d.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b11f4cdc.css",
-    "static/js/main.13474908.js"
+    "static/js/main.27bead9d.js"
   ]
 }
